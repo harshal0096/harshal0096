@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Harshal </h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+<h3 align="center">A passionate Developer and Entrepreneur</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
